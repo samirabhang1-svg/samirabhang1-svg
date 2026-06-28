@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science Student<br> | Exploring Java, DSA, SQL Frontend & Backend Technologies
 
 

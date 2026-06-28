@@ -1,5 +1,5 @@
 # About Me:
-Computer Science Student<br> | Exploring Java, DSA, SQL Frontend & Backend Technologies
+Computer Science Student<br> | Exploring Java,Spring Boot, DSA, SQL Frontend & Backend Technologies
 
 
 ## 🌐 Socials:
